@@ -1,0 +1,17 @@
+.footer {
+    min-height: 400px;
+}
+
+.footer .title {
+    font-size: 22px;
+}
+
+.footer .content {
+    font-size: 18px;
+    color: rgb(126, 126, 126);
+}
+
+.footer a {
+    text-decoration: none;
+    color: rgb(126, 126, 126);
+}

@@ -1,0 +1,11 @@
+.navbar {
+    height: 120px;
+}
+
+.navbar__logo {
+    width: 210px;
+}
+
+.navbar_socials {
+    width: 200px;
+}

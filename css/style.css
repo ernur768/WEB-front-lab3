@@ -1,0 +1,10 @@
+
+@import url(bootstrap/bootstrap-reboot.min.css);
+@import url(bootstrap/bootstrap.min.css);
+@import url(bootstrap/bootstrap-grid.min.css);
+@import url(bootstrap/bootstrap-icons.css);
+
+@import url(blocks/_navbar.css);
+@import url(blocks/_vertical-bar.css);
+@import url(blocks/_main.css);
+@import url(blocks/_footer.css);
